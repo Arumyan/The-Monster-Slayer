@@ -6,6 +6,7 @@ new Vue({
     gameIsRunning: false,
     turns: []
   },
+  
   methods: {
     startGame() {
       this.gameIsRunning = true;
